@@ -25,4 +25,4 @@ This project applies unsupervised machine learning techniques to cluster cryptoc
 
 - NumPy
 
-Jupyter Notebook
+- Jupyter Notebook
